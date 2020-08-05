@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dev-RishabhRawat/kitten-house/static/css/main.742e3d05.chunk.css",
+    "main.js": "/dev-RishabhRawat/kitten-house/static/js/main.34719a8d.chunk.js",
+    "main.js.map": "/dev-RishabhRawat/kitten-house/static/js/main.34719a8d.chunk.js.map",
+    "runtime-main.js": "/dev-RishabhRawat/kitten-house/static/js/runtime-main.1da33c3d.js",
+    "runtime-main.js.map": "/dev-RishabhRawat/kitten-house/static/js/runtime-main.1da33c3d.js.map",
+    "static/js/2.7aaef059.chunk.js": "/dev-RishabhRawat/kitten-house/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/dev-RishabhRawat/kitten-house/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/dev-RishabhRawat/kitten-house/index.html",
+    "precache-manifest.2d92201304456a11e10f023536eec867.js": "/dev-RishabhRawat/kitten-house/precache-manifest.2d92201304456a11e10f023536eec867.js",
+    "service-worker.js": "/dev-RishabhRawat/kitten-house/service-worker.js",
+    "static/css/main.742e3d05.chunk.css.map": "/dev-RishabhRawat/kitten-house/static/css/main.742e3d05.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/dev-RishabhRawat/kitten-house/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da33c3d.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.742e3d05.chunk.css",
+    "static/js/main.34719a8d.chunk.js"
+  ]
+}
